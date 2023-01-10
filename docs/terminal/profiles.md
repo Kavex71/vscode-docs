@@ -1,3 +1,5 @@
+python3 --version
+pypa/pip
 ---
 Order: 2
 Area: terminal
