@@ -2,7 +2,7 @@
 Order: 8
 Area: datascience
 TOCTitle: Jupyter Notebooks on VS Code browser
-ContentId: ???
+ContentId: 0faf5b06-ddad-4594-8d5e-fa409c7da82c
 PageTitle: Jupyter Notebooks on VS Code browser
 DateApproved: 1/9/2023
 MetaDescription: Ways to work with Jupyter notebooks in the browser on VS Code.
